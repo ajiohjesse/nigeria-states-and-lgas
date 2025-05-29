@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Abia",
+    "latitude": 5.45409529947607,
+    "longitude": 7.5153071
+  },
+  {
+    "name": "Adamawa",
+    "latitude": 9.512977199417053,
+    "longitude": 12.388188699999999
+  },
+  {
+    "name": "Akwa Ibom",
+    "latitude": 4.940863799511036,
+    "longitude": 7.8412267
+  },
+  {
+    "name": "Anambra",
+    "latitude": 6.2183135994341985,
+    "longitude": 6.9531842
+  },
+  {
+    "name": "Bauchi",
+    "latitude": 10.622828399473097,
+    "longitude": 10.028775399999999
+  },
+  {
+    "name": "Bayelsa",
+    "latitude": 4.762978599524332,
+    "longitude": 6.028898
+  },
+  {
+    "name": "Benue",
+    "latitude": 7.35057469939717,
+    "longitude": 8.777287699999999
+  },
+  {
+    "name": "Borno",
+    "latitude": 12.18753919959776,
+    "longitude": 13.308003399999999
+  },
+  {
+    "name": "Cross River",
+    "latitude": 5.867196599451846,
+    "longitude": 8.5204774
+  },
+  {
+    "name": "Delta",
+    "latitude": 5.527306099471514,
+    "longitude": 6.178416699999999
+  },
+  {
+    "name": "Ebonyi",
+    "latitude": 6.199691799435065,
+    "longitude": 8.0348906
+  },
+  {
+    "name": "Edo",
+    "latitude": 6.607657499417959,
+    "longitude": 5.9722713
+  },
+  {
+    "name": "Ekiti",
+    "latitude": 7.736890999391845,
+    "longitude": 5.2738326
+  },
+  {
+    "name": "Enugu",
+    "latitude": 6.553609399419997,
+    "longitude": 7.4143061
+  },
+  {
+    "name": "Federal Capital Territory",
+    "latitude": 8.831122799397733,
+    "longitude": 7.172467300000001
+  },
+  {
+    "name": "Gombe",
+    "latitude": 10.383009999458512,
+    "longitude": 11.206567
+  },
+  {
+    "name": "Imo",
+    "latitude": 5.585945599467946,
+    "longitude": 7.0669651
+  },
+  {
+    "name": "Jigawa",
+    "latitude": 12.325236199610885,
+    "longitude": 9.510329599999999
+  },
+  {
+    "name": "Kaduna",
+    "latitude": 10.382531799458487,
+    "longitude": 7.853322600000001
+  },
+  {
+    "name": "Kano",
+    "latitude": 11.894838899570903,
+    "longitude": 8.5364136
+  },
+  {
+    "name": "Katsina",
+    "latitude": 12.563082499634245,
+    "longitude": 7.6207063
+  },
+  {
+    "name": "Kebbi",
+    "latitude": 11.416757399530335,
+    "longitude": 4.107454499999999
+  },
+  {
+    "name": "Kogi",
+    "latitude": 7.79496019939138,
+    "longitude": 6.686866899999999
+  },
+  {
+    "name": "Kwara",
+    "latitude": 8.836789099397848,
+    "longitude": 4.668848699999999
+  },
+  {
+    "name": "Lagos",
+    "latitude": 6.526903299421034,
+    "longitude": 3.5774005
+  },
+  {
+    "name": "Nasarawa",
+    "latitude": 8.438786799392046,
+    "longitude": 8.238284899999998
+  },
+  {
+    "name": "Niger",
+    "latitude": 9.932608299434758,
+    "longitude": 5.651108799999999
+  },
+  {
+    "name": "Ogun",
+    "latitude": 6.978858199405861,
+    "longitude": 3.4389293
+  },
+  {
+    "name": "Ondo",
+    "latitude": 7.0209685994047035,
+    "longitude": 5.0567477
+  },
+  {
+    "name": "Osun",
+    "latitude": 7.548404699393967,
+    "longitude": 4.497830700000001
+  },
+  {
+    "name": "Oyo",
+    "latitude": 8.215124899390593,
+    "longitude": 3.5642896999999993
+  },
+  {
+    "name": "Plateau",
+    "latitude": 9.058344599402849,
+    "longitude": 9.6826289
+  },
+  {
+    "name": "Rivers",
+    "latitude": 4.841602799518385,
+    "longitude": 6.8604088
+  },
+  {
+    "name": "Sokoto",
+    "latitude": 13.061119499685718,
+    "longitude": 5.3152203
+  },
+  {
+    "name": "Taraba",
+    "latitude": 8.0141333993904,
+    "longitude": 10.737633599999999
+  },
+  {
+    "name": "Yobe",
+    "latitude": 12.123324199591742,
+    "longitude": 11.506593699999998
+  },
+  {
+    "name": "Zamfara",
+    "latitude": 12.007899799581104,
+    "longitude": 6.4191432
+  }
+]
